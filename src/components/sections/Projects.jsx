@@ -48,7 +48,7 @@ export const Projects = () => {
                     ))}
                 </div>
                 <div className="flex justify-center items-center">
-                    <a href="https://pangwa.vercel.app/new" className="text-blue-400 hover:text-blue-300 transition-colors my-4 pt-3">View Project ➡️</a>
+                    <a href="https://canvas321-pangwa-v2.vercel.app" className="text-blue-400 hover:text-blue-300 transition-colors my-4 pt-3">View Project ➡️</a>
                 </div>
             </div>
             <div className="p-6 rounded-xl border border-white hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.1)] transition-all">
